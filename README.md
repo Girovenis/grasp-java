@@ -19,7 +19,6 @@ Estrutura do Projeto
 --------------------------------------------
 SistemaCadastroProdutos/
 
-  src/
   
     Main.java
     
@@ -29,7 +28,6 @@ SistemaCadastroProdutos/
     
     ProductController.java
     
-  README.md
 
 --------------------------------------------
 Descrição das Classes
