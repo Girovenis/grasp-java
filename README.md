@@ -18,12 +18,18 @@ O sistema foi projetado com:
 Estrutura do Projeto
 --------------------------------------------
 SistemaCadastroProdutos/
+
   src/
+  
     Main.java
+    
     Product.java
+    
     ProductRepository.java
+    
     ProductController.java
-  README.txt
+    
+  README.md
 
 --------------------------------------------
 Descrição das Classes
